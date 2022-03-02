@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif;
+    background: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+    background-attachment: scroll;
+    background-attachment: fixed;
+    text-align: center;
+    color: white;
+}
+
+h1 {
+    font-size: 2.4em;
+}
+
+h2 {
+    font-size: 2.1em;
+}
